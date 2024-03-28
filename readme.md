@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whymami&label=Profile%20views&color=00ff55&style=plastic" alt="whymami" /> </p>
 
-- 🔭 I’m currently working on **so_long**
+- 🔭 I’m currently working on **push_swap**
 
 - 🌱 I’m currently learning **C**
 
