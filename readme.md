@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammed Maruf Guveli</h1>
-<h3 align="center">Merhaba, ben Muhammed. Bu profilimde, yaptığım projeleri ve bu projeleri yaparken yaptığım araştırmaları paylaşıyorum. Yaklaşık 3.5 yıldır yazılım ile ilgileniyorum ve 4 Aralık 2023 tarihinde 42 İstanbul'da eğitim görmeye başladım. Dumlupınar Üniversitesi Bilgisayar Programcılığı 2023 mezunuyum</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whymami&label=Profile%20views&color=00ff55&style=plastic" alt="whymami" /> </p>
 
-- 🔭 I’m currently working on **Philosophers**
+- 🔭 I’m currently working on **MiniShell**
 
 - 🌱 I’m currently learning **C**
 
