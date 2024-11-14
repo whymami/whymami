@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **inception**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **muhammedmarufguveli@gmail.com**
 
