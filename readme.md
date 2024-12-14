@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whymami&label=Profile%20views&color=00ff55&style=plastic" alt="whymami" /> </p>
 
-- 🔭 I’m currently working on **inception**
+- 🔭 I’m currently working on **Cyber Security**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **muhammedmarufguveli@gmail.com**
 
