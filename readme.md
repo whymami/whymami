@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **muhammedmarufguveli@gmail.com**
+[![<muguveli>'s 42 stats](https://badge.mediaplus.ma/greenbinary/muguveli)](https://github.com/oakoudad/badge42)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
