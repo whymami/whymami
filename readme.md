@@ -15,8 +15,8 @@
 </p>
 
 <h3 align="left">My Skills:</h3>
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,cpp,py,debian,windows,linux,kali,docker,git,github,ps,unity,blender,)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,cpp,py,debian,windows,linux,kali,docker,git,github,ps,unity,blender,)](https://skillicons.dev)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whymami&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=403b3b&locale=en&layout=compact" alt="whymami" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whymami&show_icons=true&locale=en" alt="whymami" /></p>
