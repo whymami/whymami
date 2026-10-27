@@ -21,7 +21,9 @@ I'm Muhammed Güveli, a blue-team focused cybersecurity analyst based in İstanb
 - Junior SOC Analyst — CyberExam ([verify](https://certs.cyberexam.io/verify/39dd7d26-7b5f-465b-8207-7c2ddf6689aa))
 - Splunk Power User (SPLK-1002) — Splunk
 - SOC Level 1 Path — TryHackMe
-- CyberOps Associate · CCNA: Introduction to Networks · Introduction to Cybersecurity — Cisco
+- CyberOps Associate
+- CCNA: Introduction to Networks
+- Introduction to Cybersecurity — Cisco
 
 ## Featured projects
 
