@@ -4,10 +4,10 @@
 
 I'm Muhammed Güveli, a blue-team focused cybersecurity analyst based in İstanbul, Türkiye. I work on security monitoring, log analysis and security automation with **Splunk**, **Cortex XSOAR** and **Python**. On the side, I build Python bots (WhatsApp, Telegram), web applications and e-commerce infrastructure as a freelancer.
 
-🌐 **Website & blog:** [muhammedguveli.com](https://muhammedguveli.com/)
-💼 **LinkedIn:** [linkedin.com/in/mguveli](https://www.linkedin.com/in/mguveli/)
-🏅 **Badges:** [Credly](https://www.credly.com/users/muhammed-maruf-guveli.94aca35b)
-✉️ **Email:** muhammedmarufguveli@gmail.com
+- 🌐 **Website & blog:** [muhammedguveli.com](https://muhammedguveli.com/)
+- 💼 **LinkedIn:** [linkedin.com/in/mguveli](https://www.linkedin.com/in/mguveli/)
+- 🏅 **Badges:** [Credly](https://www.credly.com/users/muhammed-maruf-guveli.94aca35b)
+- ✉️ **Email:** muhammedmarufguveli@gmail.com
 
 ## What I work on
 
