@@ -1,20 +1,38 @@
-<h1 align="center">Hi 👋, I'm Muhammed Maruf Guveli</h1>
+# Muhammed Maruf Güveli
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whymami&label=Profile%20views&color=00ff55&style=plastic" alt="whymami" /> </p>
+**Cybersecurity Analyst (SOC) · Python Developer · 42 İstanbul**
 
-- 🔭 I’m currently working on **Cyber Security**
+I'm Muhammed Güveli, a blue-team focused cybersecurity analyst based in İstanbul, Türkiye. I work on security monitoring, log analysis and security automation with **Splunk**, **Cortex XSOAR** and **Python**. On the side, I build Python bots (WhatsApp, Telegram), web applications and e-commerce infrastructure as a freelancer.
 
-- 🌱 I’m currently learning **python**
+🌐 **Website & blog:** [muhammedguveli.com](https://muhammedguveli.com/)
+💼 **LinkedIn:** [linkedin.com/in/mguveli](https://www.linkedin.com/in/mguveli/)
+🏅 **Badges:** [Credly](https://www.credly.com/users/muhammed-maruf-guveli.94aca35b)
+✉️ **Email:** muhammedmarufguveli@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammet güveli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet güveli" height="30" width="40" /></a>
-<a href="https://instagram.com/16mgvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="16mgvl" height="30" width="40" /></a>
-</p>
+## What I work on
 
-<h3 align="left">My Skills:</h3>
+- **SOC & blue team:** alert triage, log analysis, SIEM searches and dashboards in Splunk, SOAR playbooks in Cortex XSOAR
+- **Security automation:** Python scripts that enrich, correlate and respond to security events
+- **Python bots:** WhatsApp Cloud API and Telegram bots for customer support, orders and appointments
+- **Web:** FastAPI / Django backends, static sites with Astro, Linux servers, nginx, Docker
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,cpp,py,debian,windows,linux,kali,docker,git,github,ps,unity,blender,)](https://skillicons.dev)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whymami&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=403b3b&locale=en&layout=compact" alt="whymami" /></p>
+## Certifications
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whymami&show_icons=true&locale=en" alt="whymami" /></p>
+- Junior SOC Analyst — CyberExam ([verify](https://certs.cyberexam.io/verify/39dd7d26-7b5f-465b-8207-7c2ddf6689aa))
+- Splunk Power User (SPLK-1002) — Splunk
+- SOC Level 1 Path — TryHackMe
+- CyberOps Associate · CCNA: Introduction to Networks · Introduction to Cybersecurity — Cisco
+
+## Featured projects
+
+- **ft_transcendence** — team project at 42 İstanbul; I was responsible for the backend, ModSecurity WAF and HashiCorp Vault. [Case study](https://muhammedguveli.com/projeler/ft-transcendence/)
+- **WhatsApp support bot** — automated customer support for a water purification company. [How it works](https://muhammedguveli.com/blog/whatsapp-destek-botu-nasil-calisir/)
+- More projects: [muhammedguveli.com/projeler](https://muhammedguveli.com/projeler/)
+
+## Tech stack
+
+`Python` `FastAPI` `Django` `Splunk` `Cortex XSOAR` `Linux` `Bash` `Docker` `nginx` `Git` `C` `C++`
+
+---
+
+📝 I write about cybersecurity, Python automation and web in Turkish on [my blog](https://muhammedguveli.com/blog/).
